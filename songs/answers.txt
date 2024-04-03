@@ -1,0 +1,9 @@
+Danceability, energy, loudness, speechiness, valence, tempo of the top 100 songs of a user can give us a clue about user's
+song preferences and his/her vibe.
+
+For example let's say average energy value of the top 100 songs of a user, is bigger than 0.5 and let's assume that
+we can categorize a song "energetic" if the average is bigger than 0.5,
+In this way for this example we can say that this user likes to listen "energitic" songs.
+Let's also assume that orange symbolise the energy. Therefore, we choose this user's aura color is orange.
+
+

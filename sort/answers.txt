@@ -1,0 +1,9 @@
+sort1 uses: Bubble Sort (n**n) / (n)
+How do you know?: Bubble sort is n when the best case scenerio. It is faster with the sorted.txt
+
+sort2 uses: Merge Sort (nlogn) / (nlogn)
+How do you know?: Because the fastest one must be merge sort.
+
+sort3 uses: Selection Sort (n**2) / (n**2)
+How do you know?: Bubble sort is n when the best case scenerio. It is faster with the sorted.txt
+
